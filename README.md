@@ -13,6 +13,6 @@ A lightweight XSS scanner that recursively crawls a web application, extracts fo
 ## Setup
 
 ```bash
-git clone https://github.com/akashxak/xcanner.git
+git clone https://github.com/akashxak/Xcanner.git
 cd xcanner
 python3 run.py
