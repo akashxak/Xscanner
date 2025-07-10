@@ -1,4 +1,4 @@
-# XSS Scanner (Python)
+# Xcanner (Python)
 
 A lightweight XSS scanner that recursively crawls a web application, extracts forms and URLs, and tests for reflected Cross-Site Scripting (XSS) vulnerabilities.
 
